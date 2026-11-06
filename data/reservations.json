@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "roomId": 1,
+    "title": "Formation Java",
+    "date": "2026-11-10",
+    "start": "09:00",
+    "end": "12:00",
+    "contact": "formation@example.fr"
+  },
+  {
+    "id": 2,
+    "roomId": 2,
+    "title": "Atelier architecture",
+    "date": "2026-11-10",
+    "start": "14:00",
+    "end": "17:00",
+    "contact": "atelier@example.fr"
+  },
+  {
+    "id": 3,
+    "roomId": 3,
+    "title": "Reunion equipe",
+    "date": "2026-11-11",
+    "start": "10:00",
+    "end": "11:30",
+    "contact": "equipe@example.fr"
+  }
+]

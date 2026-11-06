@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Atlas",
+    "capacity": 12,
+    "location": "Batiment A",
+    "description": "Salle de formation equipee d'un videoprojecteur"
+  },
+  {
+    "id": 2,
+    "name": "Horizon",
+    "capacity": 24,
+    "location": "Batiment B",
+    "description": "Grande salle de formation"
+  },
+  {
+    "id": 3,
+    "name": "Pixel",
+    "capacity": 8,
+    "location": "Batiment A",
+    "description": "Salle informatique"
+  },
+  {
+    "id": 4,
+    "name": "Agora",
+    "capacity": 30,
+    "location": "Batiment C",
+    "description": "Espace modulable"
+  }
+]
